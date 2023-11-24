@@ -1,2 +1,2 @@
-# coursework
-Coursework from my underg at the University of South Carolina
+# Coursework
+Coursework from my undergrad at the University of South Carolina
