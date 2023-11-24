@@ -6,7 +6,7 @@ I look back on this class as the moment when my perspective on math completely s
 
 This is the first class I tried using TeX in. Unfortunately I didn't write down the questions and don't have access to them anymore, but for every other class I have the questions written down. I've included my homework for this class for completeness, though many solutions may not make sense without the questions.
 
-We convered the following topics:
+We covered the following topics:
 - Propositional and first-order logic
 - Proof writing framework and strategies
 - Introduction to set theory
