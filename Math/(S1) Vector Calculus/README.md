@@ -1,4 +1,4 @@
-# Vector Calculus - Math 241 with Dr. Daniel Dix
+# Vector Calculus - MATH 241 with Dr. Daniel Dix
 
 Unfortunately, as all the homework was submitted through online software, this is the only class I don't have any work from.
 

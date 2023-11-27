@@ -1,4 +1,4 @@
-# Applied Complex Variables - Math 552 with Dr. Matt Miller
+# Applied Complex Variables - MATH 552 with Dr. Matt Miller
 
 I took this class concurrently with my class on proof-writing, so some of my proofs (especially at the beginning of the class) are a bit sketchy.
 

@@ -1,0 +1,7 @@
+# Mathematics for Shakespeare - SCHC 351 with Dr. Michael Gavin
+
+This wasn't a traditional math class: we surveyed concepts from set theory, point-set topology, statistics, matrix and linear algebra, and graph theory, and in each case learned how their mathematical principles inform research design in the study of literature. We also learned how to use the R statistical package (which all the reports were written in), and read three plays by Shakespeare (one from each genre). Each report has been included here.
+
+---
+
+This is definitely up there for my favorite class in college, which sort of makes sense: it would be hard to design a class more perfect for a math and computer science double major with an english minor. The professor was so fun and loved the material (it's his research area), and that enthusiasm really came through. I had never really seen a lot of these ideas before (I didn't take linear algebra or graph theory until a year later), and seeing it in this context was fascinating to me and got me more interested in taking classes about them. I did a computer science internship the summer after this, and I actually was able to use the linear algebra singular-value decomposition material from this class pretty extensively for image processing, which was cool as well. I look back on this class super fondly and still think about it from time to time.

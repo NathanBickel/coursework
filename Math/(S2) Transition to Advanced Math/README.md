@@ -1,4 +1,4 @@
-# Transition to Advanced Mathematics - Math 300 with Dr. Éva Czabarka
+# Transition to Advanced Mathematics - MATH 300 with Dr. Éva Czabarka
 
 This is the first class I tried using TeX in. Unfortunately I didn't write down the questions and don't have access to them anymore, but for every other class I have the questions written down. I've included my homework for this class for completeness, though many solutions may not make sense without the questions.
 
