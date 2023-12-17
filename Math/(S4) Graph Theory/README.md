@@ -1,16 +1,18 @@
-# Discrete Mathematics I - MATH 574 with Dr. Ruth Luo
+# Discrete Mathematics II - MATH 575 with Dr. Ruth Luo
 
-We used Kenneth Rosen's *Discrete Mathematics and its Applications* textbook, and covered the following topics:
-- Combinatorics and combinatorial arguments
-- PHP, binomial theorem, inclusion-exclusion
-- Discrete probability and distributions
-- Expectation and variance properties
-- Recurrence relations and generating functions
-- Equivalence relations, modular arithmetic
-- Intro to number theory and cryptography
-- Graphs, trees, Ramsey theory
+We used Douglas West's *Introduction to Graph Theory* textbook, and covered the following topics:
+- History and definitions
+- Handshaking lemma, graphic sequences, Havel-Hakimi theorem
+- Trees, BFS and DFS, Kruskal's and Djikstra's algorithms
+- Matchings, Hall's theorem, Berge-Tutte formula
+- Strong and weak duality, König-Egerváry theorem
+- Connectivity, Menger's theorem, max-flow min-cut
+- Coloring and edge-coloring, greedy algorithm, degeneracy
+- Planarity, Euler's formula, Wagner's and Kuratowski's theorems
+- Hamiltonian cycles, Turán graphs, extremal graph theory
+- Ramsey theory, infinite graphs
 
 ---
 
-I really enjoyed this class. It was challenging since we covered so much ground, but it was cool seeing such a wide range of topics and some of the connections between them. This was the first class I took after my proofs class ended, so it felt really satisfying being able to use that new skillset to learn about a new topic rigorously and see how more advanced math used the ideas I had just learn about. Dr. Luo is also probably my favorite math professor I've had--she explained things super clearly and has high expectations for us, but also made the class environment fun and comfortable to express confusion in. I was happy I got the chance to take her Discrete II class as well.
+This is pretty solidly both my favorite and most challenging math class I've taken up to this point. Dr. Luo's research area is graph theory, so I loved being taught about what felt like a pretty niche topic to me by someone who was very knowledgeable and passionate about it, and I felt like I got more insight about how math research works from her talking about it. This class stretched my abilities more than they had been before, and I had to put a lot of time and thought into the homeworks, but I feel like that's the best way to learn. As of writing this about a semester after this class ended, I haven't found a topic that I've enjoyed as much as graph theory, and I'm still interested in potentially doing research in this area.
 
