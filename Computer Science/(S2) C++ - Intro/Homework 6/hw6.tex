@@ -1,0 +1,78 @@
+\documentclass[fleqn]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{mathexam}
+\usepackage{multicol}
+\usepackage{verbatim}
+
+\ExamClass{CSCE 240}
+\ExamName{Homework 6}
+\ExamHead{Due: 16 June 2021}
+
+\let
+\ds
+\displaystyle
+
+\begin{document}
+\ExamInstrBox {
+  You must submit a zipped, \textbf{and only zipped}, archive of your homework
+  directory, hw6. The directory must contain, at a minimum, the files
+  \texttt{hw6/src/grade.cc}, \texttt{hw6/inc/grade.h},
+  \texttt{hw6/src/rational.cc} and \texttt{hw6/inc/rational.h}. Name the
+  archive submission file hw6.zip \\
+  \\
+  I will use my own makefile to compile and link to your
+  \texttt{hw6/src/grade.cc}, \texttt{hw6/inc/grade.h},
+  \texttt{hw6/src/rational.cc} and \texttt{hw6/inc/rational.h} files. You must
+  submit, at least, these four files.
+}
+%
+\subsection*{Introduction}
+In this assignment, you will update your Grade class again, this time eschewing
+inheritance to use a Template. I require your Rational class to test your Grade
+class and list the necessary methods below. In this version, Rational is passed
+as a template to Grade and will likely require additional overloaded operators
+to implement the methods in Grade. \\
+\\
+%
+Read the provided header file documentation for instructions on how the
+methods should work.
+%
+\subsection*{Points}
+\begin{multicols*}{2}
+  \subsubsection*{Correctness}
+    \begin{enumerate}
+      \item \texttt{Grade::Grade}: 1.05 points
+      \item \texttt{Grade::ToLetter}: 1.75 points
+      \item \texttt{Grade::CalcAverage}: 1.5 points
+      \item \texttt{operator<<(Rational)}: 1.75 points
+      \item \texttt{Rational::operator==()}: 1.45 points
+    \end{enumerate}
+    Total: 7.5 Points Possible
+  \columnbreak
+  \subsubsection*{Base Submission}
+    \begin{itemize}
+      \item compilation of each test (ten tests above): 0.1 points each
+      \item \texttt{hw5/src/grade.cc} style: 0.5 points
+      \item \texttt{hw5/inc/grade.h} style: 0.5 points
+      \item \texttt{hw5/src/rational.cc} style: 0.5 points
+      \item \texttt{hw5/inc/rational.h} style: 0.5 points
+    \end{itemize}
+    Total: 2.5 Points Possible
+\end{multicols*}
+%
+\subsubsection*{Notes}
+I have provided you basic test apps which you can use to ensure that your code
+is, at least partially, correct. I would suggest a more rigorous testing scheme
+to ensure that you test overloaded operators you require, but that I do not
+request. \\
+%
+\\
+Late assignments will be accepted without penalty until 11:59 PM 20 June. No
+assignment will be accepted after this time. The assignment will be removed
+from Blackboard at that time. Any submission will be graded and if it is
+greater than the student's current Homework average, will be kept. Those below
+the average will be exempted. \\
+\\
+Though this assignment cannot hurt you, I \textbf{strongly} recommend you work on it and attempt a complete submission. There will be problems on the final exam focused entirely on the topics in this assignment.
+\end{document}
+

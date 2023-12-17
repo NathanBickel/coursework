@@ -1,0 +1,3 @@
+# Software Engineering - CSCE 247 with Portia Plante
+
+This class covered a number of software engineering design patterns, and then consisted of a medium-scale group project. My team designed a hub for summer camp where parents, counselors, and camp directors can share information and a schedule can be generated for each camper. 
