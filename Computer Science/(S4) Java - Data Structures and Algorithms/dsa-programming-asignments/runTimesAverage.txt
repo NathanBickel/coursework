@@ -1,0 +1,5 @@
+Size 10: 2689 nanoseconds
+Size 100: 3988 nanoseconds
+Size 1000: 4685 nanoseconds
+Size 10000: 2102 nanoseconds
+Size 100000: 1681 nanoseconds

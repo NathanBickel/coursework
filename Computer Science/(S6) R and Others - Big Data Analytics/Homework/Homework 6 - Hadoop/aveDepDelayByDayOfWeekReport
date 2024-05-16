@@ -1,0 +1,3 @@
+Since the dataset is so large, and there are days of the week with an average of 8 minutes and average of 12 minutes, it seems likely that a difference of this size did not occur by chance and there is a statistically significant difference between the days of the week.
+
+To test this hypothesis, we could use t-tests pairwise between the days of the week and check the p-values given. This would result in having to run 7 choose 2 = 21 tests, which would be somewhat tedious, but if any of the p-values are quite low, we can reject the hypothesis that there is no difference in departure delay between days of the week.
