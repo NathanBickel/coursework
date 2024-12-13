@@ -1,6 +1,6 @@
 # Linear Algebra - MATH 544 with Dr. Matthew Boylan, Supplementary with Dr. Nikiforos Mimikos-Stamatopoulos and Dr. Sebastian Munoz
 
-There are a couple things here. Most of the homework is from my semester-long linear algebra class I took my fourth semester. However, I also took a supplementary class on linear algebra at UChicago the following summer, so I've included the work for that as well (with prefix C for Chicago). The classes had a lot of overlap, but with different emphasises. I also took a linear algebra lab that introduced how to use MATLAB and do some linear algebra with it. I seem to have lost track of my work from that, but I'll add it here if I find it.
+There are a couple things here. Most of the homework is from my semester-long linear algebra class I took my fourth semester using T.S. Blyth and E.F. Robertson's *Basic Linear Algebra*. However, I also took a supplementary class on linear algebra at UChicago the following summer, so I've included the work for that as well (with prefix C for Chicago). The classes had a lot of overlap, but with different emphasises. I also took a linear algebra lab that introduced how to use MATLAB and do some linear algebra with it. I seem to have lost track of my work from that, but I'll add it here if I find it.
 
 Across the classes, we covered the following topics:
 - Matrix defintions and computations
