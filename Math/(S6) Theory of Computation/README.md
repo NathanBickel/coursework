@@ -2,7 +2,7 @@
 
 For various degree requirement reasons, I ended up taking two classes with the same professor that covered much of, but not entirely, the same material. I've included things from the other class (Foundations of Computation - CSCE 355) here.
 
-We used Michael Sipser's *Introduction to the Theory of Computation* and J.E. Hopcroft et al.'s *Automata Theory, Languages, and Computation*, and covered the following topics:
+We used Michael Sipser's *Introduction to the Theory of Computation* and J.E. Hopcroft et al.'s *Automata Theory, Languages, and Computation* and covered the following topics:
 - Finite automata and regular expressions
 - Closure properties and nonregular languages
 - Minimization and Myhill-Nerode theorem

@@ -1,6 +1,6 @@
 # Discrete Mathematics I - MATH 574 with Dr. Ruth Luo
 
-We used Kenneth Rosen's *Discrete Mathematics and its Applications* textbook, and covered the following topics:
+We used Kenneth Rosen's *Discrete Mathematics and its Applications* textbook and covered the following topics:
 - Combinatorics and combinatorial arguments
 - PHP, binomial theorem, inclusion-exclusion
 - Discrete probability and distributions

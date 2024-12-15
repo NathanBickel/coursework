@@ -1,6 +1,6 @@
 # Discrete Mathematics II - MATH 575 with Dr. Ruth Luo
 
-We used Douglas West's *Introduction to Graph Theory* textbook, and covered the following topics:
+We used Douglas West's *Introduction to Graph Theory* textbook and covered the following topics:
 - History and definitions
 - Handshaking lemma, graphic sequences, Havel-Hakimi theorem
 - Trees, BFS and DFS, Kruskal's and Djikstra's algorithms

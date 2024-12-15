@@ -1,6 +1,6 @@
 # Analysis I - MATH 554 with Dr. Ralph Howard, Supplementary with Dr. Benaida Shabani
 
-There are a couple things here. Most of the homework is from my semester-long analysis class I took my fifth semester. However, I also took a supplementary class on linear algebra at UChicago the summer before the class, so I've included the work for that as well (with prefix C for Chicago). The classes had a lot of overlap, but with different emphasises.
+There are a couple things here. Most of the homework is from my semester-long analysis class I took my fifth semester, where we used Maxwell Rosenlicht's *Introduction to Analysis* textbook. However, I also took a supplementary class on linear algebra at UChicago the summer before the class, so I've included the work for that as well (with prefix C for Chicago). The classes had a lot of overlap, but with different emphasises.
 
 Across the classes, we covered the following topics:
 - Properties of fields/real numbers, least upper bound axiom

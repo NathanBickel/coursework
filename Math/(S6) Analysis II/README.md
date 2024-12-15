@@ -1,6 +1,6 @@
 # Analysis II - MATH 555 with Dr. Ralph Howard
 
-We covered the following topics:
+We used Maxwell Rosenlicht's *Introduction to Analysis* textbook and covered the following topics:
 - Derivaties, mean value theorem
 - Rolle's and Taylor's theorems
 - Riemann integration
