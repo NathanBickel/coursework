@@ -1,4 +1,4 @@
-# SCHC 501 - Mathematical Linguistics
+# SCHC 501 - Mathematical Linguistics with Dr. Stanley Dubinsky
 
 We used Barbara Partee, Alice Meulen, and Robert Wall's *Mathematical Methods in Linguistics* textbook and covered the following topics:
 - Set theory, relations, infinites
